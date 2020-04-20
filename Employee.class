@@ -1,0 +1,12 @@
+Êþº¾   4 D  com/example/lab1/Employee  java/lang/Object id I name Ljava/lang/String; salary D age <init> ()V Code
+     LineNumberTable LocalVariableTable this Lcom/example/lab1/Employee; getId ()I	     setId (I)V MethodParameters getName ()Ljava/lang/String;	     setName (Ljava/lang/String;)V 	getSalary ()D	  % 	 
+ 	setSalary (D)V getAge	  *   setAge show	 . 0 / java/lang/System 1 2 out Ljava/io/PrintStream; 4 Employee id =7
+ 6 8 7 java/io/PrintStream 9 ! println ; Employee name=Diksha = Employee salary=200000 ? Employee Age=26 
+SourceFile Employee.java RuntimeVisibleAnnotations *Lorg/springframework/stereotype/Component; !                 	 
+        
+        /     *· ±                               /     *´ ¬                               >     *µ ±       
+                                       /     *´ °                           !     >     *+µ ±       
+                                 " #     /     *´ $¯                         & '     >     *'µ $±       
+                      	 
+      	    (      /     *´ )¬                         +      >     *µ )±       
+    "  #                           ,      [     !² -3¶ 5² -:¶ 5² -<¶ 5² ->¶ 5±           &  '  (  )   *        !      @    A B     C  
